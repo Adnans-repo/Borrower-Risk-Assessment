@@ -15,7 +15,7 @@ Source: [Lending Club 2007](https://www.kaggle.com/datasets/samaxtech/lending-cl
 
 ![dataset-2](https://user-images.githubusercontent.com/116202234/217816394-4890c4a8-c27e-4803-b59d-0891c88750ec.PNG)
 
-### Balancing the Imbalanced Dataset with Synthetic Minority Over-sampling Technique (SMOTE)
+# Balancing the Imbalanced Dataset with Synthetic Minority Over-sampling Technique (SMOTE)
 In this project, we are performing credit risk analysis using a dataset collected from Lending Club in 2007. The dataset has 5634 samples of the default class and 33136 samples of the non-default class, which creates an imbalanced distribution of class labels.
 
 To mitigate this imbalance, we are using the Synthetic Minority Over-sampling Technique (SMOTE) to generate synthetic samples of the minority class. SMOTE works by interpolating between existing samples of the minority class to create new, synthetic samples. This helps to balance the distribution of class labels in the dataset and improves the performance of the machine learning model.
@@ -34,6 +34,6 @@ print(f'\nDuration: {time.time() - start_time:.0f} seconds')
 
 **F1 Score:** The F1 Score is a weighted average of precision and recall, and is used to evaluate the performance of the classifier. A higher F1 score indicates that the classifier is able to accurately classify both positive and negative samples.
 
-###F1-Score = 2 * Precision * Recall / (Precision + Recall)###
+###F1-Score = 2 * Precision * Recall / (Precision + Recall)
 
 

@@ -31,9 +31,18 @@ print(f'\nDuration: {time.time() - start_time:.0f} seconds')
 ```
 
 # Evaluation Metrics Criteria
-
 **F1 Score:** The F1 Score is a weighted average of precision and recall, and is used to evaluate the performance of the classifier. A higher F1 score indicates that the classifier is able to accurately classify both positive and negative samples.
 
 ### F1-Score = 2 * Precision * Recall / (Precision + Recall)
+Apart from this we'll also be using ROC-AUC and classification accuracy metrics
+
+# Feature Engineering: Enhancing Features to Improve Model Accuracy
+This process involves selecting and modifying features to create a more informative representation of the data. Our feature engineering approach includes:
+
+  1. Correlation Analysis: Identifying the strongest relationships between features and the target variable.
+  2. Feature Selection: Choosing only the most relevant features to include in the model.
+  3. Feature Scaling: Standardizing feature values to ensure equal weighting in the model.
+
+By refining our features through these methods, we aim to create a model that predicts credit risk with greater precision and accuracy.
 
 

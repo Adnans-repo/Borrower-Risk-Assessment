@@ -8,8 +8,10 @@ The data used in this project is a historical loan dataset that includes informa
 
 | Label | Description | Instances
 | --- | --- | --- | 
-|0| Repaid the loan | 25474 |
-|1| Defaulted | 7109 | 
+|0| Repaid the loan | 33136 |
+|1| Defaulted | 5634 | 
 
-Source: [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
+Source: [Lending Club 2007](https://www.kaggle.com/datasets/samaxtech/lending-club-20072011-data)
+
+
 

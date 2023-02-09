@@ -34,6 +34,6 @@ print(f'\nDuration: {time.time() - start_time:.0f} seconds')
 
 **F1 Score:** The F1 Score is a weighted average of precision and recall, and is used to evaluate the performance of the classifier. A higher F1 score indicates that the classifier is able to accurately classify both positive and negative samples.
 
-###F1-Score = 2 * Precision * Recall / (Precision + Recall)
+### F1-Score = 2 * Precision * Recall / (Precision + Recall)
 
 

@@ -14,3 +14,5 @@ The data used in this project is a historical loan dataset that includes informa
 Source: [Lending Club 2007](https://www.kaggle.com/datasets/samaxtech/lending-club-20072011-data)
 
 ![dataset-1](https://user-images.githubusercontent.com/116202234/217811045-a1e13d3b-96c1-4496-92a5-d23cda6445b5.PNG)
+
+![dataset](https://user-images.githubusercontent.com/116202234/217811465-6f9e3689-2dcf-44f6-94e7-c2674c6b79a7.PNG)

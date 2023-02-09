@@ -4,7 +4,7 @@ The goal of this project is to build a predictive model for loan default using m
 ## Data
 The data used in this project is a historical loan dataset that includes information about borrower characteristics (e.g., credit score, income, employment history) and loan information (e.g., loan amount, interest rate, default status). The data was obtained from a publicly available source and has been preprocessed to handle missing values and outliers.
 
-Dataset overview:
+**Dataset overview:**
 
 | Label | Description | Instances
 | --- | --- | --- | 

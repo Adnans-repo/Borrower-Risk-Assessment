@@ -53,3 +53,7 @@ def normalize(subset):
     subset[continuous_columns] = scaler.fit_transform(subset[continuous_columns])
     return subset
 ```
+### Understanding Feature Relationships through Correlation Analysis
+Correlation analysis helps us assess the strength of relationships between features and the target variable. By identifying which features are most strongly correlated with the target, we can make informed decisions about which features to include in our model.
+
+![cr1](https://user-images.githubusercontent.com/116202234/217828813-41e8318e-ff50-4ac4-bd7d-fa9f52047ad5.png)

@@ -57,3 +57,11 @@ def normalize(subset):
 Correlation analysis helps us assess the strength of relationships between features and the target variable. By identifying which features are most strongly correlated with the target, we can make informed decisions about which features to include in our model.
 
 ![cr1](https://user-images.githubusercontent.com/116202234/217828813-41e8318e-ff50-4ac4-bd7d-fa9f52047ad5.png)
+
+# Model Comparison and Selection
+In order to build an accurate credit risk analysis model, it's important to evaluate the performance of different models. We will be testing a variety of suitable models and comparing their accuracy to determine which one is best suited for our project.
+
+Some of the models we will be evaluating include Logistic Regression, Random Forest, Gradient Boosting, Support Vector Machines (SVMs), and Neural Networks. These models will be trained and tested on our dataset, and the accuracy of each model will be evaluated.
+
+Based on the results of this comparison, we will select the model with the highest accuracy for our final implementation. By conducting a thorough evaluation of different models, we can ensure that we are using the best possible model for our credit risk analysis project.
+

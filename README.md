@@ -6,7 +6,7 @@ The data used in this project is a historical loan dataset that includes informa
 
 Some assumtions for the dataset:
 
-| Encoding | Status | Data
+| Label | Description | Instances
 | --- | --- | --- | 
-|0| Paid back loan | 25474 |
+|0| Repaid the loan | 25474 |
 |1| Defaulted | 7109 | 

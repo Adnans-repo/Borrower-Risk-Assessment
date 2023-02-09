@@ -45,7 +45,7 @@ This process involves selecting and modifying features to create a more informat
 
 By refining our features through these methods, we aim to create a model that predicts credit risk with greater precision and accuracy.
 
-### Normalization and Scaling
+### Normalizing and Scaling for Optimal Model Performance
 ```python
 def normalize(subset):
     continuous_columns = subset.select_dtypes(include=['float']).columns

@@ -15,4 +15,4 @@ Source: [Lending Club 2007](https://www.kaggle.com/datasets/samaxtech/lending-cl
 
 ![dataset](https://user-images.githubusercontent.com/116202234/217810310-0484b5e6-cc9b-40e3-b589-d23c58935a91.PNG)
 
-![dataset](https://user-images.githubusercontent.com/116202234/217810932-7d9422a7-2df2-410a-ae22-e182d7edf61c.PNG)
+![dataset-1](https://user-images.githubusercontent.com/116202234/217811045-a1e13d3b-96c1-4496-92a5-d23cda6445b5.PNG)
